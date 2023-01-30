@@ -1,5 +1,5 @@
-function craditCard () {
-    var total = shirt + pant;
+function craditCard (a , b) {
+    var total = a + b;
     return total;
 }
 var shirt =120;
